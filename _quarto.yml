@@ -2,8 +2,10 @@ project:
   type: website
 
 website:
-  title: "resume"
+  title: "Lin Li"
+  description: "Resume of Lin Li."
   navbar:
+    title: "Lin Li"
     left:
       - href: index.qmd
         text: Home
@@ -14,7 +16,6 @@ format:
     theme:
       - cosmo
       - brand
-    css: styles.css
     toc: true
 
 
